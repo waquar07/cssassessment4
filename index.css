@@ -1,0 +1,242 @@
+/* .offer{
+    left: -11px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+    border: solid;
+    width: 1538px;
+    
+}
+.list{
+    background-color: lightblue;
+    border: 3px solid crimson;
+    width: 50px;
+    height: 20px;
+    text-align: center;
+} */
+#grad{
+    width: 1506px;
+    right: -13px;
+    background: linear-gradient(45deg, red, green, transparent);
+    height: 22px;
+    margin-right: -17px;
+    background-color: yellow;
+    position: relative;
+    left: -2px; 
+}
+.offer{
+    text-decoration: underline;
+    position: absolute;
+    top: 0px;
+    font-weight: bold;
+    right: 706px;
+    height: -22px;
+    font-size: 20px
+}
+.list{
+    width: 196px;
+    height: 44px;
+    text-align: center;
+    border: 3px solid crimson;
+    padding-left: 344px;
+    border-radius: 15px;
+    margin-left: 16%;
+    padding-right: 334px;
+    font-size: 16px;
+    padding-bottom: 5px;
+    background-color: lightblue;
+    margin-top: 9px;
+}
+ul{
+    position: relative;
+    top: -16px;
+    font-size: 14px;
+}
+.text{
+    border: 1px solid crimson;
+    position: relative;
+    height: 119px;
+    background-color: aquamarine;
+    border-radius: 11px;
+    left: 0px;
+    width: 1499px;
+    top: 12px;
+}
+.text_1{
+    border: 2px solid green;
+    background-color: cyan;
+    position: absolute;
+    width: 362px;
+    padding-left: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 27px;
+}
+.text_2{
+    border: 2px solid green;
+    background-color: cyan;
+    position: absolute;
+    width: 362px;
+    padding-left: 10px;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 568px;
+    top: 0;
+}
+.text_3{
+    border: 2px solid green;
+    background-color: cyan;
+    position: absolute;
+    width: 378px;
+    padding-left: -1px;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 548px;
+    top: 0;
+    left: 1123px;
+}
+.text_4{
+    padding-left: 14px;
+    border: 2px solid green;
+    background-color: cyan;
+    position: absolute;
+    width: 372px;
+    padding-left: 1px;
+    font-weight: bold;
+    border-radius: 5px;
+    left: 548px;
+    top: 59px;
+    left: 568px;
+}
+hr{
+    position: relative;
+    top: 111px;
+}
+.grad_1{
+    background-color: yellow;
+    right: 64px;
+    background: linear-gradient(45deg, red, yellow, red);
+    height: 30px;
+    margin-right: -17px;
+    position: relative;
+    left: 40px;
+    top: 30px;
+    width: 1498px;
+
+}
+.offer_1{
+    /* text-decoration: underline red; */
+    text-align: center;
+    top: 0px;
+    font-weight: bold;
+    right: 706px;
+    height: -22px;
+    font-size: 14px
+}
+.boxx{
+    width: 248px;
+    height: 130px;
+    border: 2px solid rgb(226, 46, 46);
+    border-radius: 15px;
+    color: rgb(223, 37, 37);
+    text-decoration: underline;
+    background-color: yellow;
+    text-align: center;
+    line-height: 39px;
+    font-weight: bold;
+}
+
+.parentbox2{
+    left: 5px;
+    position: relative;
+    margin-top: 45px;
+    border: 2px solid green;
+    width: 1494px;
+    height: 280px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    background: radial-gradient(blue,lightgreen);
+}
+.place{
+    border: 1px solid black;
+    height: 301px;
+    position: relative;
+    top: 19px;
+}
+h2{
+    top: -21px;
+    background-color: crimson;
+    height: 41px;
+    text-align: center;
+    color: white;
+    position: absolute;
+    width: 1502px;
+}
+.doubt{
+    border: 0px solid lightgreen;
+    background-color: lightgreen;
+    position: absolute;
+    left: 0px;
+    top: 50px;
+    width: 434px;
+    height: 62px;
+
+}
+.get{
+    text-align: left;
+    height: 62px;
+    width: 415px;
+    background-color: rgb(62, 192, 209);
+    border: 0px solid;
+    position: absolute;
+    left: 451px;
+    top: 50px;
+}
+.hard{
+    background-color: blue;
+    height: 62px ;
+    width: 415px;
+    border: 0px solid ;
+    position: absolute;
+    top: 50px;
+    right: 206px;
+    color: white;
+}
+.lorem{
+    color: white;
+    font-size: 22px;
+    background-color: rgb(245, 190, 89);
+    height: 132px;
+    width: 1295px;
+    position: absolute;
+    top: 120px;
+    font-weight: bold;
+
+}
+.all{
+    background-color: lightblue;
+    border: 0px solid;
+    width: 1501px;
+    height: 18px;
+    position: absolute;
+    top: 264px;
+    left: 0px;
+    text-align: center;
+    
+
+}
+.material{
+    background-color: black;
+    color: white;
+    border: 0px solid ;
+    position: absolute;
+    top: 50px;
+    width: 69px;
+    height: 200px;
+    right: 0px;
+    
+}
+
+

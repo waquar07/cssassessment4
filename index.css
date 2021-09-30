@@ -159,12 +159,12 @@ hr{
     flex-wrap: wrap;
     background: radial-gradient(blue,lightgreen);
 }
-.place{
+/* .place{
     border: 1px solid black;
     height: 301px;
     position: relative;
     top: 19px;
-}
+} */
 h2{
     top: -21px;
     background-color: crimson;
@@ -174,7 +174,7 @@ h2{
     position: absolute;
     width: 1502px;
 }
-.doubt{
+/* .doubt{
     border: 0px solid lightgreen;
     background-color: lightgreen;
     position: absolute;
@@ -193,8 +193,8 @@ h2{
     position: absolute;
     left: 451px;
     top: 50px;
-}
-.hard{
+} */
+/* .hard{
     background-color: blue;
     height: 62px ;
     width: 415px;
@@ -214,8 +214,8 @@ h2{
     top: 120px;
     font-weight: bold;
 
-}
-.all{
+} */
+/* .all{
     background-color: lightblue;
     border: 0px solid;
     width: 1501px;
@@ -237,6 +237,81 @@ h2{
     height: 200px;
     right: 0px;
     
+} */
+.gridcontainer{
+    display: grid;
+    height: 304px;
+    width: 1496px;
+    border: 1px solid black;
+    margin-left: 5px;
+    margin-top: 10px;
+    grid-template-columns: 2fr 2fr 2fr 120px;
+    row-gap: 10px;
+    column-gap: 10px;
+    grid-template-rows: 14% 24% 37% 8%;
 }
+.child1{
+    background-color: crimson;
+    grid-column: 1/5;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 1px;
+
+}
+.child2{
+    background-color: lightgreen;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+}
+.child3{
+    background-color: blue;
+    font-weight: bold;
+    color: white;
+    font-size: 28px;
+}
+.child4{
+    background-color: indigo;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+.child5{
+    background-color: black;
+    grid-column: 4/4;
+    grid-row: 2/4;
+    color: white;
+    
+}
+.child6{
+    background-color: orange;
+    grid-column: 1/4;
+    color: white;
+    font-weight: bolder;
+    font-size: 23px;
+}
+.child7{
+    background-color: yellow;
+    grid-column: 1/5;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+/* .child8{
+    background-color: orangered;
+}
+.child9{
+    background-color: palevioletred;
+}
+.child10{
+   background-color: indigo;
+}
+.child11{
+    background-color: rosybrown;
+} */
+
 
 
